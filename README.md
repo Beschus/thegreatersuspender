@@ -2,7 +2,7 @@
 
 ## What it is
 With this repository I'm trying to keep the great project behind the scandal and downfall of "The Great Suspender" alive.
-I really liked the idea of freeing up as much resources as possible and The great Suspender was among the standard extensions I used in almost all of my Chrome profiles. Learning that The great Suspender extension has been corrupted by malicious code was pretty shoking to me. 
+I really liked the idea of freeing up as much resources as possible and The great Suspender was among the standard extensions I used in almost all of my Chrome profiles. Learning that The great Suspender extension has been corrupted by malicious code was pretty shocking to me. 
 My objective for now is to pick up the pieces and strip them of any malicious code, backdoors and unnecessary requests so the extension does exactly and only what it's designed to do. 
 
 ## What it does
